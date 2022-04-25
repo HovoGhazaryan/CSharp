@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -80,6 +80,7 @@ namespace homework
                 else
                     break;
             }
+            Console.WriteLine("Press any key to close program...");
             Console.ReadKey();
         }
     }
